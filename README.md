@@ -42,7 +42,7 @@ A Source of Seismic and Acoustic Signals</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Volcanology-Books/blob/master/volv(21).pdf" style="text-decoration:none;">Before the Volcano Erupted</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Volcanology-Books/blob/master/volv(22).pdf" style="text-decoration:none;">The Volcanoes of Kilauea and Mauna Loa on the Island of Hawaii</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/Volcanology-Books/blob/master/volv(23).pdf" style="text-decoration:none;">Modeling, reaction schemes and kinetic parameter estimation in automotive catalytic converters and diesel particulate filters</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Volcanology-Books/blob/master/volv(23).pdf" style="text-decoration:none;">Volcanoes: Eruptions and Other Volcanic Hazards </a></li> 
  
 
    <li><a target="_blank" href="https://github.com/manjunath5496/Volcanology-Books/blob/master/volv(24).pdf" style="text-decoration:none;">Mud Volcanoes, Geodynamics and Seismicity</a></li>
