@@ -22,7 +22,7 @@ A Practical Guide</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Volcanology-Books/blob/master/volv(11).pdf" style="text-decoration:none;"> Active Volcanoes of Chiapas (Mexico)</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Volcanology-Books/blob/master/volv(12).pdf" style="text-decoration:none;">The Field Description
 of Igneous Rocks</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Volcanology-Books/blob/master/volv(13).pdf" style="text-decoration:none;">A Volcano Beneath the Snow</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Volcanology-Books/blob/master/volv(13).pdf" style="text-decoration:none;">Volcanoes in Human History</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Volcanology-Books/blob/master/volv(14).pdf" style="text-decoration:none;">The Myrdalsjokull Ice Cap, Iceland: Glacial Processes, Sediments and Landforms on an Active Volcano</a></li>
                               
