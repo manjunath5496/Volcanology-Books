@@ -109,7 +109,7 @@ Geodetic Monitoring Techniques</a></li>
 and Southern Oceans</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Volcanology-Books/blob/master/volv(53).pdf" style="text-decoration:none;">Encyclopedia of Volcanoes</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Volcanology-Books/blob/master/volv(53).pdf" style="text-decoration:none;"> A model of volcanic explosions at Popocatépetl volcano (Mexico): Integrating fragmentation experiments and ballistic analysis</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Volcanology-Books/blob/master/volv(54).pdf" style="text-decoration:none;">Monitoring gas emissions of active volcanoes - identification of natural degassing variations and combination of volcano monitoring techniques</a></li>
 
