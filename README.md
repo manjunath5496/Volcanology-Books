@@ -103,6 +103,15 @@ World: Volcano Crisis Communication</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Volcanology-Books/blob/master/volv(50).rar" style="text-decoration:none;">Volcano Deformation:
 Geodetic Monitoring Techniques</a></li>
 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Volcanology-Books/blob/master/volv(51).pdf" style="text-decoration:none;">Copahue Volcano</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Volcanology-Books/blob/master/volv(52).pdf" style="text-decoration:none;">Volcanoes of the Antarctic Plate
+and Southern Oceans</a></li> 
+ 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Volcanology-Books/blob/master/volv(53).pdf" style="text-decoration:none;">Encyclopedia of Volcanoes</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Volcanology-Books/blob/master/volv(54).pdf" style="text-decoration:none;">Monitoring gas emissions of active volcanoes - identification of natural degassing variations and combination of volcano monitoring techniques.</a></li>
 
 
 
