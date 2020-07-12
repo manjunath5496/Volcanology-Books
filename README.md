@@ -74,7 +74,7 @@ Earth Sciences</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Volcanology-Books/blob/master/volv(36).pdf" style="text-decoration:none;">The Deep Roots of Volcanoes: Models of Magma Dynamics with Applications to Subduction Zones</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Volcanology-Books/blob/master/volv(37).pdf" style="text-decoration:none;">Arc Volcano of Japan: Generation of Continental Crust from the Mantle</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Volcanology-Books/blob/master/volv(38).pdf" style="text-decoration:none;">Cooperative Automation in Automobiles</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Volcanology-Books/blob/master/volv(38).pdf" style="text-decoration:none;">Furnace of Creation, Cradle of Destruction: A Journey to the Birthplace of Earthquakes, Volcanoes, and Tsunamis</a></li> 
  <li><a target="_blank" href="https://github.com/manjunath5496/Volcanology-Books/blob/master/volv(39).pdf" style="text-decoration:none;">The People's Car: A Global History of the Volkswagen Beetle</a></li> 
  
 
