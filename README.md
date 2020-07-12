@@ -93,7 +93,7 @@ World: Volcano Crisis Communication</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Volcanology-Books/blob/master/volv(46).pdf" style="text-decoration:none;">Volcanic and Igneous Plumbing Systems: Understanding Magma Transport, Storage, and Evolution in the Earth's Crust</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Volcanology-Books/blob/master/volv(47).pdf" style="text-decoration:none;">Volcanoes of the Azores: Revealing the Geological Secrets of the Central Northern Atlantic Islands</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Volcanology-Books/blob/master/volv(47).pdf" style="text-decoration:none;">Geology lab for kids</a></li> 
  
 
    <li><a target="_blank" href="https://github.com/manjunath5496/Volcanology-Books/blob/master/volv(48).pdf" style="text-decoration:none;">Encyclopedia of Volcanoes</a></li>
